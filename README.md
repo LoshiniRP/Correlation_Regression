@@ -1,4 +1,4 @@
-# Correlation and regression for data analysis
+# CORRELATION AND REGRESSION FOR DATA ANALYSIS
 ## Aim : 
 To analyse given data using coeffificient of correlation and regression line
 
